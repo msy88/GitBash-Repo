@@ -1,1 +1,1 @@
-This is commir from GitHub Desktop for my homework!
+This is commit from GitHub Desktop for my homework!
