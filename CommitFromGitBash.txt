@@ -1,1 +1,1 @@
-This is commit from GitBash
+This is commit from GitBash for my homework!
